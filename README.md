@@ -78,5 +78,4 @@ I’m a fresher aspiring to enter the field of data analytics. I enjoy solving p
 If you’re a recruiter, mentor or fellow learner, I’d be happy to connect or collaborate.
 
 **GitHub**: [github.com/Sowmyashree21](https://github.com/Sowmyashree21)
-## Project Structure
 
